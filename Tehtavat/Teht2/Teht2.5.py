@@ -1,7 +1,7 @@
 
-leiviska = int(input("Anna leiviskät:"))
-naula = int(input("Anna naulat:"))
-luoti = int(input("Anna luodit:"))
+leiviska = float(input("Anna leiviskät:"))
+naula = float(input("Anna naulat:"))
+luoti = float(input("Anna luodit:"))
 
 koko = ((leiviska * 20 + naula) * 32 + luoti) * 13.3
 
